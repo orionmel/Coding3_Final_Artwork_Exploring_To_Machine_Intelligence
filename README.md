@@ -13,10 +13,10 @@ This project mainly satirizes the human worship of machines, but the fear of the
 
 
 ## What I used in this project
-This project is mainly through the pix2pix cGAN in machine learning to train images, by entering a rough sketch to convert into photos, because I want to create an app that let user painting and the machine guesses the image , so I trained this model with the existing pix2pix cGAN code (more details can be viewed through the description below)
+This project is mainly through the pix2pix cGAN in machine learning to train images, by entering a rough sketch to convert into photos, because I want to create an app that let user painting and the machine guesses the image , so I trained this model with the existing pix2pix cGAN code. (more details can be viewed through the description below)
 <br>
 <br>
-I use the dart language and flutter framework structure to create the UI and functionality of the app I want, and I'm running with the local API
+I use the dart language and flutter framework structure to create the UI and functionality of the app I want, and I'm running with the local API.
 
 ### Source link:
 https://colab.research.google.com/drive/1GUEl-2DGPhc4Zsl5HLI3s0AQwRhkhwtD?usp=sharing 
@@ -39,6 +39,9 @@ https://github.com/orionmel/Coding3_Final_Artwork_Exploring_To_Machine_Intellige
 
 ## Final Outcomes：
 ![](https://github.com/orionmel/Coding3_Final_Artwork_Exploring_To_Machine_Intelligence/blob/main/img/high_fi_page.png)
+
+## The future of my project:
+Due to the problem of the model, the user needs to draw the portrait draft more accurately in order to finally display the avatar of a normal person, if not,it will eventually leads to blurring and deformity of the portrait. So in the future, I will try to train more portrait data so that the user can draw a normal portrait with just a few strokes.
 
 ----------------------
 # Reference:
