@@ -18,6 +18,16 @@ This project is mainly through the pix2pix cGAN in machine learning to train ima
 <br>
 I use the dart language and flutter framework structure to create the UI and functionality of the app I want, and I'm running with the local API
 
+### Source link:
+https://colab.research.google.com/drive/1GUEl-2DGPhc4Zsl5HLI3s0AQwRhkhwtD?usp=sharing 
+
+https://generated.photos/faces
+
+https://www.tensorflow.org/tutorials/generative/pix2pix https://docs.flutter.dev/development/ui/layout
+
+https://www.youtube.com/watch?v=mK9N0obmiZQ
+
+
 ## Process：
 ### The following mainly shows the important code, to learn the full code please go through the links below：
 https://github.com/orionmel/Coding3_Final_Artwork_Exploring_To_Machine_Intelligence/tree/main/Ghost_In_the_Machine/lib
