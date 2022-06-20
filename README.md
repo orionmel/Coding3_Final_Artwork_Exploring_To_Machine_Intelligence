@@ -1,5 +1,8 @@
 # Coding3_Final_Artwork
 #### Kexin_Mei_20013506
+----------------------
+## Ghost In the Machine
+
 #### My Github Link : https://github.com/orionmel/Coding3_Final_Artwork_Exploring_To_Machine_Intelligence
 #### Video Link : https://vimeo.com/721718129
 #### Code description Link : https://github.com/orionmel/Coding3_Final_Artwork_Exploring_To_Machine_Intelligence/blob/main/Ghost_In_the_Machine.pdf
