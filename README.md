@@ -41,7 +41,7 @@ https://github.com/orionmel/Coding3_Final_Artwork_Exploring_To_Machine_Intellige
 #### (5) Create rating button
 
 ## Final Outcomes：
-![](https://github.com/orionmel/Coding3_Final_Artwork_Exploring_To_Machine_Intelligence/blob/main/img/high_fi_page.png)
+![](https://github.com/orionmel/Coding3_Final_Artwork_Exploring_To_Machine_Intelligence/blob/main/img/interface.png)
 
 ## The future of my project:
 Due to the problem of the model, the user needs to draw the portrait draft more accurately in order to finally display the avatar of a normal person, if not,it will eventually leads to blurring and deformity of the portrait. So in the future, I will try to train more portrait data so that the user can draw a normal portrait with just a few strokes.
